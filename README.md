@@ -1,2 +1,2 @@
 # CadBarbeiro
- cadastramento de cliente p barbeiro
+ tec utliz: html, css, js, bootstrap
